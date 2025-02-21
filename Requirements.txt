@@ -1,0 +1,8 @@
+cohere
+chromadb
+tensorflow
+pillow
+streamlit
+langchain
+
+
